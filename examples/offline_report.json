@@ -1,0 +1,30 @@
+{
+  "lesson": 56,
+  "application": "Versioned Blackboard Team",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "board": {
+      "version": 3,
+      "entries": [
+        {
+          "id": "E1",
+          "author": "collector",
+          "text": "The user reports a duplicate charge."
+        },
+        {
+          "id": "E2",
+          "author": "collector",
+          "text": "No refund has been processed."
+        },
+        {
+          "id": "A1",
+          "author": "analyst",
+          "text": "Investigate the two charges; a refund is not confirmed."
+        }
+      ]
+    },
+    "analysis": "Investigate the two charges; a refund is not confirmed."
+  },
+  "measured_cost_usd": null
+}

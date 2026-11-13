@@ -1,0 +1,16 @@
+{
+  "lesson": 56,
+  "title": "Blackboard Architecture",
+  "application": "Versioned Blackboard Team",
+  "purpose": "Let specialist stages append evidence to a shared board with stable IDs and optimistic version checks.",
+  "exercise": "Call append_entry with version 0 after the first write. Confirm it rejects the stale update rather than losing an entry.",
+  "source_topics": [
+    "00-Arquitectura de pizarra colaborativa.png",
+    "01-What-Is-a-Blackboard-Architecture.png",
+    "02-Design-the-Blackboard-Entries.png",
+    "03-Build-a-Simple-Blackboard.png",
+    "04-Agents-Read-and-Write-the-Board.png",
+    "05-Resolve-Conflicts-and-Keep-Quality.png",
+    "06-Use-Cases-and-Takeaways.png"
+  ]
+}
